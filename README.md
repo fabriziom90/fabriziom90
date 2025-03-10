@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-<p align="center">
+<p align="left">
   <img src="./asset/file.jpg" width="250" />
 </p>
 Hi, I'm **Fabrizio Mastrobattista** — a passionate **Web Developer** specialized in crafting modern websites and web applications.
